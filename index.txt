@@ -1,14 +1,1 @@
-Exercícios:
-1. Conectar a um repositório remoto e depois a outro pra ver o que acontece.
-2. Mudar a branch remota com upstream-to-origin e atualizar o local
-3. Alterar o histórico local e fazer pull --rebase com o remoto. Ver qual dos dois históricos foi alterado.
-4. Alterar o histórico local e fazer merge
-5. Fazer alterações, salvar com stach, mudar de branch, voltar e recuperar as mudanças
-6. Pegar as mudanças de um commit específico (de outro branch)
-7. Adiconar só partes de um arquivo ao commit com "git add -p"
-8. Editar a mensagem de um commit (com --amend)
-9. Editar o conteúdo do commit (também com --amend)
-10. Reverter commit preservando mudanças no stage área (git reset --soft %hash%)
-11. Reverter commit perdendo mudanças (usar "hard" em vez de "soft")
-12. Reverter um commit sem alterar histórico (git revert) e fazer push no remoto
-13. Juntar commits (rebase ou fixup)
+local
