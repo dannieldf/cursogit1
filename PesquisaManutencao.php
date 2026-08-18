@@ -3,23 +3,17 @@ class PesquisaManutencao
 {
     public static function metodo1()
     {
-        /*
-        codigo 1
-        */
+        echo "codigo 1";
     }
 
     public static function metodo2()
     {
-        /*
-        codigo 2
-        */
+        echo "codigo 2";
     }
 
     public static function metodo3()
     {
-        /*
-        codigo 3
-        */
+        echo "codigo 3";
     }
 }
 ?>
