@@ -3,23 +3,17 @@ class PesquisaManutencao
 {
     public static function metodo1()
     {
-        /*
-        codigo 1
-        */
+        PesquisaManutencao1::metodo();
     }
 
     public static function metodo2()
     {
-        /*
-        codigo 2
-        */
+        PesquisaManutencao2::metodo();
     }
 
     public static function metodo3()
     {
-        /*
-        codigo 3
-        */
+        PesquisaManutencao3::metodo();
     }
 }
 ?>
