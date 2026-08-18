@@ -3,20 +3,17 @@ class PesquisaManutencao
 {
     public static function metodo1()
     {
-        echo "codigo 1";
-        echo "codigo 1 plus";
+        PesquisaManutencao1::metodo();
     }
 
     public static function metodo2()
     {
-        echo "codigo 2";
-        echo "codigo 2 plus";
+        PesquisaManutencao2::metodo();
     }
 
     public static function metodo3()
     {
-        echo "codigo 3";
-        echo "codigo 3 plus";
+        PesquisaManutencao3::metodo();
     }
 }
 ?>
